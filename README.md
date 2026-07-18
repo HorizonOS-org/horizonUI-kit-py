@@ -1,4 +1,4 @@
-# 🌌 horizonUI-kit
+# 🌌 horizonUI-kit-py
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
 [![Platform](https://img.shields.io/badge/platform-Horizon%20OS-purple.svg)](#)
@@ -6,7 +6,7 @@
 
 The official Python SDK for building native, lightweight, and modern application user interfaces on **Horizon OS**.
 
-`horizonUI-kit` allows you to design applications in pure Python with simple, declarative components. It handles communication over standard streams automatically, so you can focus on building beautiful user experiences.
+`horizonUI-kit-py` allows you to design applications in pure Python with simple, declarative components. It handles communication over standard streams automatically, so you can focus on building beautiful user experiences.
 
 ---
 
